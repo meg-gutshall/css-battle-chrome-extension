@@ -1,0 +1,10 @@
+{
+    "name": "CSSBattle: Flag Bearer",
+    "description": "A small browser extension to help you win your CSS battles!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "images/css-battle.png"
+    }
+  }
